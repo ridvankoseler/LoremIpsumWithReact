@@ -1,6 +1,6 @@
-https://color-generator-with-react-nine.vercel.app/
+https://lorem-ipsum-with-react.vercel.app/
 <br>
-[Click here to see the project](https://color-generator-with-react-nine.vercel.app/)
+[Click here to see the project](https://lorem-ipsum-with-react.vercel.app/)
 
 <br>
 
@@ -8,7 +8,7 @@ https://color-generator-with-react-nine.vercel.app/
 👉 Props/State/Components <br>
 👉 Bootstrap5 <br>
 👉 Form<br>
-👉 Javascript<br>
 
-![AnimationColor.gif](https://github.com/ridvankoseler/colorGeneratorWithReact/blob/bb9b78d904349826ac2a0a88d26cdcfb6f1101da/AnimationColor.gif)
+
+![Animation LoremIpsum.gif](https://github.com/ridvankoseler/LoremIpsumWithReact/blob/82f9b9b876a79da7dd122e0fef7069d26ca93334/Animation%20LoremIpsum.gif)
 
