@@ -1,6 +1,6 @@
-https://lorem-ipsum-with-react.vercel.app/
+https://color-generator-with-react-nine.vercel.app/
 <br>
-[Click here to see the project](https://lorem-ipsum-with-react.vercel.app/)
+[Click here to see the project](https://color-generator-with-react-nine.vercel.app/)
 
 <br>
 
@@ -8,5 +8,7 @@ https://lorem-ipsum-with-react.vercel.app/
 👉 Props/State/Components <br>
 👉 Bootstrap5 <br>
 👉 Form<br>
+👉 Javascript<br>
 
-![Animation LoremIpsum.gif](https://github.com/ridvankoseler/LoremIpsumWithReact/blob/c0b5523e84df16186c8ffeef39a5add619933421/Animation%20LoremIpsum.gif)
+![AnimationColor.gif](https://github.com/ridvankoseler/colorGeneratorWithReact/blob/bb9b78d904349826ac2a0a88d26cdcfb6f1101da/AnimationColor.gif)
+
